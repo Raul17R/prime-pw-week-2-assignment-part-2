@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We make a variable called name and set it to Dane String
+// We check if name is Mary, if it is we console.log Hi, Mary!
+// if the name is not mary we console.log How do you do?
 //
 
 //CODE
@@ -45,10 +45,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we make a variable called secret
+// we set a variable called code and we set it to be 123
+// we check that code equals 123, if it is 123 we set variable secret to super and we multipli the value of code for 2
+//we check if the value of code is greater than 250 we change the value of secret to duper
+//we console.log secret
 
 //CODE
 /*
@@ -70,10 +71,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we make a variable called isStudent and set it to be True, we make a variable called age and set to 34, and we 
+// make a variable called zip and set it to 55407
+// we check that isStudent equals true and the zip is greater than 80000 we console.log You're a student on the west coast!
+// if isStudent equals false or age is less than 30 we console.log what are your hobbies?
+// if isStudent equals true we console.log Welcome to prime!
+// if isStudent is false we console.log how about the weather?
 
 //CODE
 /*
@@ -130,12 +133,16 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+//colorOne Should be blue
 let colorOne = 'red';
+//colorTwo should be red
 let colorTwo = 'blue';
 let mix = true;
 
 if (mix === true) {
+
   colorOne = 'purple';
+  //we need to set colorTwo to purple
 }
 */
 
@@ -146,7 +153,7 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
-
+//we need to change the operator || to && 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -161,8 +168,11 @@ let age = 21;
 const minAge = 21;
 
 if(minAge <= age) {
+
+  //we need to console log enter instead of no entry
   console.log('no entry');
 } else {
+  //change the console.log to no entry
   console.log('enter');
 }
 */
