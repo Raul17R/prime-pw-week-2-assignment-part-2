@@ -27,9 +27,9 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // We make a variable called name and set it to Dane String
-// We check if name is Mary, if it is we console.log Hi, Mary!
+// We check if name is equal to Mary, if it is we console.log Hi, Mary!
 // if the name is not mary we console.log How do you do?
-//
+//at the end the variable name equals mary, so we are console logging How do you do
 
 //CODE
 /*
@@ -50,6 +50,7 @@ if (name === 'Mary') {
 // we check that code equals 123, if it is 123 we set variable secret to super and we multipli the value of code for 2
 //we check if the value of code is greater than 250 we change the value of secret to duper
 //we console.log secret
+//At the end we are console logging 'super' because the code equals 246 
 
 //CODE
 /*
@@ -77,6 +78,8 @@ console.log(secret)
 // if isStudent equals false or age is less than 30 we console.log what are your hobbies?
 // if isStudent equals true we console.log Welcome to prime!
 // if isStudent is false we console.log how about the weather?
+
+//at the end we are console logging 'Welcome to prime' because isStudent is true but the zipcode is not greater than 80000
 
 //CODE
 /*
